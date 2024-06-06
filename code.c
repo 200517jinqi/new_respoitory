@@ -1,6 +1,6 @@
-include<stdio.h>
+#include<stdio.h>
 int main(void){
-printf("你好呀！");
-return 0;
+printf("老子已经偷代码跑路啦！！！")；
+return 0；
 }
 

@@ -63,8 +63,10 @@ github可以编写readme，文本修饰语言<br>
 分割线用\-\-\-表示<br>
 表格用“|”分隔开，左对齐用“--”表示，中间对齐用“:--:”表示，右对齐用“--:”表示<br>
 代码片段用“\`\`\`”表示<br>
+超链接:用[]表示显示的文字文本,()里面放文本<br>
 <br><br>
 <br><br>
+
  github命令总结:<br>
  git config --list  //查看git配置文件<br>
  git config --global user.email "邮箱" //验证邮箱<br>
@@ -84,6 +86,7 @@ github可以编写readme，文本修饰语言<br>
  git rebase --skip  //忽略本地内容，保存云端内容<br>
  git rebase --continue  //忽略云端内容，保留本地内容<br>
  git clone “https网站地址”  //下载开源代码<br>
+
 ## 分割线
   用\-\-\-表示分割线
 

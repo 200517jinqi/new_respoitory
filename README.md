@@ -85,5 +85,9 @@
 
 ## 超链接技术
 
-[Github](https://www/github.com"点击访问")
+[Github](https://www/github.com/ "点击访问")<br>
+[点击重新跳转本页](https://github.com/200517jinqi/new_respoitory?tab=readme-ov-file)<br>
+
+### 插入图片
+![测试图片](C:\Users\DELL\Desktop)
 
